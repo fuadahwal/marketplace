@@ -1,0 +1,62 @@
+
+
+#deleteProductFromSession, .checkouts {
+	a {
+		text-decoration: none;
+		text-color: white;
+		color: white;
+	}
+}
+
+.checkout{
+	text-align:right;
+}
+
+#subtotal{
+	margin-top:0px;
+}
+
+#co_prodInfo {
+  margin: 5px 0 5px;
+}
+
+#co_prodInfo span {
+  display: block;
+  text-align: left;
+}
+
+#invoice-header
+{
+	padding:0;
+	span, i, b#company{
+		display:block;
+	}
+}
+
+#invoice{
+	span {
+		display: block;
+	}
+	.details{
+		padding:0;
+	}
+	div{
+		margin-bottom:10px;
+	}
+}
+
+div#email_invoice{
+	margin-bottom:10px;
+}
+
+div.buy{
+	form {
+		margin-bottom: 10px;
+	}
+}
+
+.list_purchases_shipaddress{
+	div{
+		margin:0;
+	}
+}
